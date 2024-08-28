@@ -1,4 +1,4 @@
-# Job-Portal
+# RKGIT-Placment-Portal
 
 The RKGIT Placement Portal is a web-based platform designed to streamline the placement process for students, companies, and the placement cell. The portal aims to provide a seamless experience for all stakeholders, making it easier to manage job postings, applications, and selection processes.
 
@@ -34,11 +34,8 @@ Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss changes.
 
-License
 
-This project is licensed under the MIT License. See LICENSE.txt for details.
-
-Contributotrs
+Contributors
 
 - Vivek Kumar Gupta
 - Krati Sharma
