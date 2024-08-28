@@ -1,4 +1,4 @@
-# RKGIT-Placment-Portal
+# RKGIT Placement Portal
 
 The RKGIT Placement Portal is a web-based platform designed to streamline the placement process for students, companies, and the placement cell. The portal aims to provide a seamless experience for all stakeholders, making it easier to manage job postings, applications, and selection processes.
 
